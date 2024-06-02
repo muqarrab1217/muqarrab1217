@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Influencer/Creator)`**
 
-I'm an Full Stack Database Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an Full Stack Database Developer with expertise in Languages such as C++, C and C#. I am also a content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
